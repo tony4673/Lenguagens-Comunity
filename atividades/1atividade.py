@@ -9,5 +9,5 @@ nome do produto
 quantidade
 preço
 depois, mostre na tela as informações de pagamento em uma mensagem formatada
-3 - faça uma calculadora que faça soma entre 2 valores, depois exiba em uma mensagem formatada
+3 - faça uma calculadora que faça soma entre 2 valores, depois exiba em uma mensagem formatada.
 """
