@@ -1,6 +1,5 @@
 """
-
-1 - atribuição de valor a variavel e sua tipagem
+1 - atribuição de valor em uma variavel e sua tipagem
 2 - operação matematica e concatenação
 3 - input
 4 - formatação de mensagem
@@ -10,7 +9,7 @@
 1.5 # float
 True # bool
 False # bool
-
+"""
 
 receita: str = "cuzcuz com ovo"
 magia: str = "Maldição"
@@ -28,4 +27,3 @@ entrada: bool = True
 mensagem: str = f"Olá {nome}, você tem {idade} anos.\nSua entrada é: {entrada}" # formatação
 
 print(mensagem)
-"""
